@@ -8,3 +8,5 @@ Trabalho de Estrutura de dados
   <li>Nathan C. de M. Gomes: Matrícula: 20180040977</li>
   <li>Thomas R. de A raújo: Matrícula: 20180039733</li>
 </ul>
+
+<h2>OBS: Todos os testes feitos no CodeBlocks</h2>
